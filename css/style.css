@@ -9,7 +9,7 @@ canvas{
     margin: calc(50vh - 150px) auto 0;
     background: #FFF;
     border-radius: 3px;
-    box-shadow: 0, 0, 15pX, 3px #CCC;
+    box-shadow: 0 0 15px 3px #ccc;
     cursor: pointer;
 }
 
